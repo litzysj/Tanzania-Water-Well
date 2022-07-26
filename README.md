@@ -41,3 +41,7 @@ Which metric would make sense to primarily use as we evaluate our models?
 ## Next Steps
 - Better understanding of data
 - Improving false positives to improve our prediction
+
+# Additional Information
+ * [Presentation](Presentation.pdf)
+ * [Data](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
