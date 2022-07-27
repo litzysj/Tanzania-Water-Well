@@ -1,5 +1,8 @@
 # Tanzania Water Wells
 
+## Overview
+The Tanzania Ministry of Water asked King and I to look into their dataset and see how we can calculate the functionality of wells in Tanzania. The are many water wells set up across the country. It is important to know how to predict the functionality of those wells in order to make sure that the citizens of Tanzania have water available. 
+
 ## Business Problem
 -Stakeholder: Tanzanian Ministry of Water
 
